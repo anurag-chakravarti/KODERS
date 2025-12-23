@@ -6,7 +6,7 @@ A production-ready Flutter application demonstrating Clean Architecture, BLoC st
 
 | Login Screen | User List | User Details |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![List](screenshots/android_preview.png) | ![Detail](screenshots/detail.png) |
+| ![Login](screenshots/login.png) | ![List](screenshots/android_preview.png) | ![Detail](screenshots/detail.png) | ![Detail iOS](screenshots/ios_detail.png) |
 
 ## 🚀 Features
 
